@@ -6,9 +6,15 @@ Starting Syncthing Automatically
 
 Jump to configuration for your system:
 
+- `Android <#android>`_
 - `Windows <#windows>`__
 - `macOS <#macos>`__
 - `Linux <#linux>`__
+
+Android
+-------
+#. Launch the Syncthing app. 
+#. Tap the top-left hamburger -> Settings -> Behaviour -> Start service automatically on boot.
 
 
 Windows
